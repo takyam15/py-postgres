@@ -1,0 +1,17 @@
+numpy
+pandas
+polars-lts-cpu
+openpyxl
+scipy
+statsmodels
+matplotlib
+seaborn
+scikit-learn
+python-dotenv
+psycopg
+sqlalchemy
+jupyterlab
+ipywidgets
+jupyter_ai
+streamlit
+pygwalker
