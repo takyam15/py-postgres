@@ -1,4 +1,4 @@
-FROM python:3.10
+FROM python:3.12
 ARG DIR_WORK=/work
 WORKDIR ${DIR_WORK}
 COPY requirements.txt ${DIR_WORK}/
