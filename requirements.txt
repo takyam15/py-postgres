@@ -7,6 +7,7 @@ statsmodels
 matplotlib
 seaborn
 scikit-learn
+rdkit
 python-dotenv
 psycopg
 sqlalchemy
